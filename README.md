@@ -1,5 +1,9 @@
 # Taxin-t
+
 Source Code for my 2023 GMTK GameJam Submission
+
+
+*I DO NOT RECOMMEND ANYONE TO USE THIS CODE, ITS NOT OPTIMIZED, ITS WRITTEN IN JUST 2 HOURS*
 
 
 CarGeneral.cs is for Input handling of the car and player.
@@ -19,4 +23,4 @@ square.cs is the most important and complicated(not really tbh) script of the pr
 
 
 
-You can use the source code for your own project. 
+You can use the source code for your own project(if you lost your mind). 
